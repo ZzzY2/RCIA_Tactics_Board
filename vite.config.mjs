@@ -11,7 +11,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/RM_Tactics_Board/',
+  base: '/RCIA_Tactics_Board/',
   plugins: [
     VueRouter(),
     Vue({
