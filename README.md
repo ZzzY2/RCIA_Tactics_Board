@@ -9,6 +9,13 @@ RM战术面板
 初始化：npm install
 启动：npm run dev
 
+## 推送
+git add .
+git commit -m "你的更新说明"
+git pull --rebase origin main
+git push origin main
+
+
 <img src="./src/assets/demo.jpg" alt="RoboMaster Tactics Board Logo" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;" />
 
 ## 自动部署

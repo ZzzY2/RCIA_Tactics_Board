@@ -8,10 +8,10 @@ export const MAP_IMAGES = {
 export const PLAYERS_RMUC = [
   { number: 1, xRatio: 0.106, yRatio: 0.57, color: 'red' },
   { number: 2, xRatio: 0.151, yRatio: 0.451, color: 'red' },
-  { number: 3, xRatio: 0.151, yRatio: 0.539, color: 'red' },
+  { number: 7, xRatio: 0.151, yRatio: 0.539, color: 'red' },
   { number: 4, xRatio: 0.057, yRatio: 0.555, color: 'red' },
   { number: 6, xRatio: 0.062, yRatio: 0.150, color: 'red' },
-  { number: 7, xRatio: 0.058, yRatio: 0.441, color: 'red' },
+  { number: 3, xRatio: 0.058, yRatio: 0.441, color: 'red' },
   { number: 1, xRatio: 0.90, yRatio: 0.58, color: 'blue' },
   { number: 2, xRatio: 0.85, yRatio: 0.52, color: 'blue' },
   { number: 3, xRatio: 0.94, yRatio: 0.56, color: 'blue' },
